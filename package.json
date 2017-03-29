@@ -1,5 +1,5 @@
 {
-  "name": "tar-stream",
+  "name": "ubnt-m1ch4ls-tar-stream",
   "version": "1.5.3",
   "description": "tar-stream is a streaming tar parser and generator and nothing else. It is streams2 and operates purely using streams which means you can easily extract/parse tarballs without ever hitting the file system.",
   "author": "Mathias Buus <mathiasbuus@gmail.com>",
